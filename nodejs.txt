@@ -1,0 +1,4 @@
+- Thêm , Sửa , Xóa Sản phẩm
+- Login , Out
+- Thêm , Sửa , Xóa danh mục
+- Hiển thị danh múc, sản phẩm
